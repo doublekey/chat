@@ -7,6 +7,10 @@ import android.os.Bundle;
 import ua.com.doublekey.chat.R;
 import ua.com.doublekey.chat.base.SingleFragmentActivity;
 
+/**
+ * Created by doublekey on 21.10.2016.
+ */
+
 public class LoginActivity extends SingleFragmentActivity {
 
     @Override

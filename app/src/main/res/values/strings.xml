@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ChatTest</string>
+    <string name="app_name">Chat</string>
 
     <string name="login_login_hint">Login</string>
     <string name="login_password_hint">Password</string>
@@ -9,14 +9,13 @@
     <string name="chat_send">Send</string>
     <string name="chat_with">Chat with</string>
 
-    <string name="common_server_ip">69.164.222.122</string>
     <string name="common_dialog_ok">OK</string>
     <string name="common_connecting">Connecting...</string>
     <string name="common_connected">Connected</string>
     <string name="common_connection_error">Connection error!</string>
     <string name="common_connection_closed">Connection closed</string>
     <string name="common_message_error">Message delivery error!</string>
-    <string name="common_authorisation_error">Authorisation error!</string>
+    <string name="common_authorisation_error">Authorization error!</string>
     <string name="common_user_list_error">Getting users list error!</string>
 
 
