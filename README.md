@@ -7,9 +7,9 @@ It works with Openfire server installed on Linode cloud service.
 
 This is the chat app for closed groups with user registration only by administator. 
 For testing could be used the next login/password pairs:
-first/first
-second/second
-third/third
+first/first,
+second/second,
+third/third,
 
 
 
